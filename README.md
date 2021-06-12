@@ -2,9 +2,7 @@
 
 ### Hi there🤟
 
-```
-<img alt="Night Coding" src=".\Night-Coding.gif" align="left"/>
-```
+![](C:\officialjs\officialjs\night-coding.gif)
 
 ### TL;DR
 
