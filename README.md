@@ -1,8 +1,8 @@
-### ![officialjs-github-profile-header](.\officialjs-github-profile-header-1080p.png)
+### ![officialjs-github-profile-header](./officialjs-github-profile-header-1080p.png)
 
 ### Hi there🤟
 
-![](C:\officialjs\officialjs\night-coding.gif)
+![night-coding](./night-coding.gif)
 
 ### TL;DR
 
