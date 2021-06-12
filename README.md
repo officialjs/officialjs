@@ -1,4 +1,4 @@
-### ![officialjs-github-profile-header](.\officialjs-github-profile-header.png)
+### ![officialjs-github-profile-header](.\officialjs-github-profile-header-1080p.png)
 
 ### Hi there🤟
 
@@ -88,7 +88,7 @@ This GitHub profile is dedicated to my work outside of the previously mentioned 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![MaterialDesign](https://img.shields.io/badge/-MaterialDesign-05122A?style=flat&logo=materialdesign)&nbsp;
 
-### What I would like to add to my arsenal
+### What existing or new tech I would like to expand upon or add to my arsenal
 
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-05122A?style=flat&logo=webassembly)&nbsp;
 ![WebGL](https://img.shields.io/badge/-WebGL-05122A?style=flat&logo=webgl)&nbsp;
