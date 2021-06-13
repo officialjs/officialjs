@@ -51,8 +51,8 @@ My previous experiences also include working in the `FinTech` space for a [compa
 
 ### In my arsenal
 
-![](https://img.shields.io/badge/-Microsoft .NET Framework & Core-05122A?style=flat&logo=dotnet)&nbsp;
-![](https://img.shields.io/badge/-Microsoft ASP.NET Framework & Core-05122A?style=flat&logo=dotnet)&nbsp;
+![](https://img.shields.io/badge/-Microsoft_.NET_Framework_&_Core-05122A?style=flat&logo=dotnet)&nbsp;
+![](https://img.shields.io/badge/-Microsoft_ASP.NET_Framework_&_Core-05122A?style=flat&logo=dotnet)&nbsp;
 ![](https://img.shields.io/badge/-Microsoft CSharp-05122A?style=flat&logo=csharp)&nbsp;
 ![](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
