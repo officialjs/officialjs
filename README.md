@@ -30,13 +30,9 @@ My previous experiences also include working in the `FinTech` space for a [compa
 
 > *This **GitHub** profile is dedicated to my work outside of the previously mentioned professional career.*
 
-### Widgets
+### Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialjs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialjs&repo=officialjs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialjs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently working on
 
