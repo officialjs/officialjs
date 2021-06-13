@@ -53,7 +53,7 @@ My previous experiences also include working in the `FinTech` space for a [compa
 
 ![](https://img.shields.io/badge/-Microsoft_.NET_Framework_&_Core-05122A?style=flat&logo=dotnet)&nbsp;
 ![](https://img.shields.io/badge/-Microsoft_ASP.NET_Framework_&_Core-05122A?style=flat&logo=dotnet)&nbsp;
-![](https://img.shields.io/badge/-Microsoft CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![](https://img.shields.io/badge/-Microsoft_CSharp-05122A?style=flat&logo=csharp)&nbsp;
 ![](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
@@ -62,37 +62,37 @@ My previous experiences also include working in the `FinTech` space for a [compa
 ![](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![](https://img.shields.io/badge/-Visual Studio-05122A?style=flat&logo=visualstudio)&nbsp;
-![](https://img.shields.io/badge/-Microsoft Visual Studio Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
-![](https://img.shields.io/badge/-Microsoft Azure Data Studio-05122A?style=flat&logo=azuredataexplorer)&nbsp;
-![](https://img.shields.io/badge/-JetBrains Rider-05122A?style=flat&logo=rider)&nbsp;
-![](https://img.shields.io/badge/-JetBrains WebStorm-05122A?style=flat&logo=webstorm)&nbsp;
-![](https://img.shields.io/badge/-GNU Bash-05122A?style=flat&logo=gnubash)&nbsp;
-![](https://img.shields.io/badge/-Microsoft Powershell-05122A?style=flat&logo=powershell)&nbsp;
+![](https://img.shields.io/badge/-Visual_Studio-05122A?style=flat&logo=visualstudio)&nbsp;
+![](https://img.shields.io/badge/-Microsoft_Visual_Studio_Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
+![](https://img.shields.io/badge/-Microsoft_Azure_Data_Studio-05122A?style=flat&logo=azuredataexplorer)&nbsp;
+![](https://img.shields.io/badge/-JetBrains_Rider-05122A?style=flat&logo=rider)&nbsp;
+![](https://img.shields.io/badge/-JetBrains_WebStorm-05122A?style=flat&logo=webstorm)&nbsp;
+![](https://img.shields.io/badge/-GNU_Bash-05122A?style=flat&logo=gnubash)&nbsp;
+![](https://img.shields.io/badge/-Microsoft_Powershell-05122A?style=flat&logo=powershell)&nbsp;
 ![](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![](https://img.shields.io/badge/-Linux Debian-05122A?style=flat&logo=debian)&nbsp;
-![](https://img.shields.io/badge/-Linux Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![](https://img.shields.io/badge/-Linux Alpine-05122A?style=flat&logo=alpinelinux)&nbsp;
-![](https://img.shields.io/badge/-Microsoft Internet Information Services-05122A?style=flat&logo=microsoft)&nbsp;
-![](https://img.shields.io/badge/-Azure DevOps-05122A?style=flat&logo=azuredevops)&nbsp;
+![](https://img.shields.io/badge/-Linux_Debian-05122A?style=flat&logo=debian)&nbsp;
+![](https://img.shields.io/badge/-Linux_Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![](https://img.shields.io/badge/-Linux_Alpine-05122A?style=flat&logo=alpinelinux)&nbsp;
+![](https://img.shields.io/badge/-Microsoft_Internet_Information_Services-05122A?style=flat&logo=microsoft)&nbsp;
+![](https://img.shields.io/badge/-Azure_DevOps-05122A?style=flat&logo=azuredevops)&nbsp;
 ![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)&nbsp;
-![](https://img.shields.io/badge/-Microsoft SQLServer-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+![](https://img.shields.io/badge/-Microsoft_SQLServer-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 ![](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
 ![](https://img.shields.io/badge/-NuGet-05122A?style=flat&logo=nuget)&nbsp;
-![](https://img.shields.io/badge/-Adobe Premiere Pro-05122A?style=flat&logo=adobepremierepro)&nbsp;
-![](https://img.shields.io/badge/-Adobe Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
-![](https://img.shields.io/badge/-Adobe After Effects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
-![](https://img.shields.io/badge/-Adobe Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+![](https://img.shields.io/badge/-Adobe_Premiere_Pro-05122A?style=flat&logo=adobepremierepro)&nbsp;
+![](https://img.shields.io/badge/-Adobe_Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+![](https://img.shields.io/badge/-Adobe_After_Effects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
+![](https://img.shields.io/badge/-Adobe_Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 ![](https://img.shields.io/badge/-OpenSSL-05122A?style=flat&logo=openssl)&nbsp;
-![](https://img.shields.io/badge/-Adobe AdobeXD-05122A?style=flat&logo=adobexd)&nbsp;
+![](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=adobexd)&nbsp;
 ![](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey)&nbsp;
 ![](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![](https://img.shields.io/badge/-Material Design-05122A?style=flat&logo=materialdesign)&nbsp;
+![](https://img.shields.io/badge/-Material_Design-05122A?style=flat&logo=materialdesign)&nbsp;
 
 <!--
 
