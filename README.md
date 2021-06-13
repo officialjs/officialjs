@@ -8,17 +8,19 @@
 
 🔭 I’m currently working on 3 websites.
 
-🌱 I’m currently learning [react.js](https://reactjs.org/)
+🌱 I’m currently learning [**react.js**](https://reactjs.org/)
 
 👯 I’m looking to collaborate on a .NET project
 
-🤔 I’m looking for help with setting up a [mail server](https://hub.docker.com/r/mailserver/docker-mailserver/)
+🤔 I’m looking for help with setting up a [**mail server**](https://hub.docker.com/r/mailserver/docker-mailserver/)
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jacques-stander/)
+📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/jacques-stander/)
 
 ⚡ Fun fact: *fantasy > reality*
 
-### Career
+™  I'm known as **[officialjs](https://github.com/officialjs)**
+
+### Professional Career
 
 An ambitious Fullstack Software Engineer with a passion for creating logical and innovative solutions to complex problems.
 
@@ -26,7 +28,7 @@ I'm currently working in the `IoT` space as a Team Lead and Fullstack Junior Sof
 
 My previous experiences also include working in the `FinTech` space for a [company](https://corporate.sybrin.com/) where I produced end-to-end digital banking and account management systems, with a focus on going paperless for banks and branches.
 
-This GitHub profile is dedicated to my work outside of the previously mentioned professional career.
+> *This **GitHub** profile is dedicated to my work outside of the previously mentioned professional career.*
 
 ### Widgets
 
@@ -38,10 +40,10 @@ This GitHub profile is dedicated to my work outside of the previously mentioned 
 
 ### Currently working on
 
-* [Fennec & Co](https://fennecandco.co.za) web and mobile app `Status: WIP | Repo: Private`
-* [Milk by Mo](https://milkbymo.co.za) website `Status: WIP | Repo: Private`
-* [Official JS](https://officialjs.co.za) website `Status: WIP | Repo: Private`
-* TCP & UDP cross platform CLI tool website `Status: WIP | Repo: Private`
+* [Fennec & Co](https://fennecandco.co.za) web and mobile app
+* [Milk by Mo](https://milkbymo.co.za) website
+* [Official JS](https://officialjs.co.za) web and mobile app
+* TCP & UDP networking utility CLI tool
 
 ### Currently in my scope of upskilling
 
@@ -49,44 +51,58 @@ This GitHub profile is dedicated to my work outside of the previously mentioned 
 
 ### In my arsenal
 
-![Dotnet](https://img.shields.io/badge/-Dotnet-05122A?style=flat&logo=dotnet)&nbsp;
-![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio)&nbsp;
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&logo=visualstudiocode)&nbsp;
-![Rider](https://img.shields.io/badge/-Rider-05122A?style=flat&logo=rider)&nbsp;
-![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=bash)&nbsp;
-![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![IIS](https://img.shields.io/badge/-IIS-05122A?style=flat&logo=iis)&nbsp;
-![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-05122A?style=flat&logo=azuredevops)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)&nbsp;
-![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=sqlserver)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
-![NuGet](https://img.shields.io/badge/-NuGet-05122A?style=flat&logo=nuget)&nbsp;
-![PremierPro](https://img.shields.io/badge/-PremierPro-05122A?style=flat&logo=adobepremierepro)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)&nbsp;
-![AfterEffects](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
-![OpenSSL](https://img.shields.io/badge/-OpenSSL-05122A?style=flat&logo=openssl)&nbsp;
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobexd)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![WindowsTerminal](https://img.shields.io/badge/-WindowsTerminal-05122A?style=flat&logo=windowsterminal)&nbsp;
-![Chocolatey](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![MaterialDesign](https://img.shields.io/badge/-MaterialDesign-05122A?style=flat&logo=materialdesign)&nbsp;
+![](https://img.shields.io/badge/-Microsoft .NET Framework & Core-05122A?style=flat&logo=dotnet)&nbsp;
+![](https://img.shields.io/badge/-Microsoft ASP.NET Framework & Core-05122A?style=flat&logo=dotnet)&nbsp;
+![](https://img.shields.io/badge/-Microsoft CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
+![](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![](https://img.shields.io/badge/-Visual Studio-05122A?style=flat&logo=visualstudio)&nbsp;
+![](https://img.shields.io/badge/-Microsoft Visual Studio Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
+![](https://img.shields.io/badge/-Microsoft Azure Data Studio-05122A?style=flat&logo=azuredataexplorer)&nbsp;
+![](https://img.shields.io/badge/-JetBrains Rider-05122A?style=flat&logo=rider)&nbsp;
+![](https://img.shields.io/badge/-JetBrains WebStorm-05122A?style=flat&logo=webstorm)&nbsp;
+![](https://img.shields.io/badge/-GNU Bash-05122A?style=flat&logo=gnubash)&nbsp;
+![](https://img.shields.io/badge/-Microsoft Powershell-05122A?style=flat&logo=powershell)&nbsp;
+![](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+![](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![](https://img.shields.io/badge/-Linux Debian-05122A?style=flat&logo=debian)&nbsp;
+![](https://img.shields.io/badge/-Linux Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![](https://img.shields.io/badge/-Linux Alpine-05122A?style=flat&logo=alpinelinux)&nbsp;
+![](https://img.shields.io/badge/-Microsoft Internet Information Services-05122A?style=flat&logo=microsoft)&nbsp;
+![](https://img.shields.io/badge/-Azure DevOps-05122A?style=flat&logo=azuredevops)&nbsp;
+![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)&nbsp;
+![](https://img.shields.io/badge/-Microsoft SQLServer-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+![](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
+![](https://img.shields.io/badge/-NuGet-05122A?style=flat&logo=nuget)&nbsp;
+![](https://img.shields.io/badge/-Adobe Premiere Pro-05122A?style=flat&logo=adobepremierepro)&nbsp;
+![](https://img.shields.io/badge/-Adobe Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+![](https://img.shields.io/badge/-Adobe After Effects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
+![](https://img.shields.io/badge/-Adobe Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+![](https://img.shields.io/badge/-OpenSSL-05122A?style=flat&logo=openssl)&nbsp;
+![](https://img.shields.io/badge/-Adobe AdobeXD-05122A?style=flat&logo=adobexd)&nbsp;
+![](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey)&nbsp;
+![](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![](https://img.shields.io/badge/-Material Design-05122A?style=flat&logo=materialdesign)&nbsp;
+
+<!--
+
+### GitHub Profile Help
+
+[simple-icons](https://simpleicons.org/)
+
+[simple-icons-slugs](https://github.com/simple-icons/simple-icons/blob/develop/slugs.md)
+
+[shields.io](https://shields.io/)
 
 ### What existing or new tech I would like to expand upon or add to my arsenal
 
@@ -132,18 +148,23 @@ This GitHub profile is dedicated to my work outside of the previously mentioned 
 
 *Wow, very ambitions, I know right. Can't really afford not to be. But these are career goals.*
 
+-->
+
 ### Certifications
 
 * Cum Laude Bachelor's Degree in Computing, Bcomp NQF8, Major in Software Engineering at the [Belgium Campus](https://www.belgiumcampus.ac.za/)
 
 ### Let's Connect 🤜🤛
 
-* [LinkedIn](https://www.linkedin.com/in/jacques-stander/)
+* [![](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/jacques-stander/)&nbsp;
 
-### Websites
+* [![](https://img.shields.io/badge/-Portifolio-05122A?style=flat&logo=askubuntu)](https://officialjs.co.za/)&nbsp;
+* [![](https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube)](https://www.youtube.com/channel/UCRhoNaX_mlkiIHhOPYjskHA)&nbsp;
+* [![](https://img.shields.io/badge/-Udemy-05122A?style=flat&logo=udemy)](https://www.udemy.com/user/jacques-stander-3/)&nbsp;
 
-* My website at [Official JS](https://officialjs.co.za/) still under construction.
-
-### Food for the brain
+### Food for thought
 
 * [Amdahls Law](https://whatis.techtarget.com/definition/Amdahls-law)
+* [Design Patterns](https://refactoring.guru/design-patterns/catalog)
+* [Mongolian Horde Theory](https://www.answers.com/Q/What_is_the_Mongolian_horde_theory)
+* [Data structure & Algorithms](https://www.programiz.com/dsa)
