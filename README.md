@@ -6,7 +6,7 @@
 
 ### TL;DR
 
-🔭 I’m currently working on 3 websites.
+🔭 I’m currently working on 1 website.
 
 🌱 I’m currently learning [**react.js**](https://reactjs.org/)
 
@@ -36,10 +36,7 @@ My previous experiences also include working in the `FinTech` space for a [compa
 
 ### Currently working on
 
-* [Fennec & Co](https://fennecandco.co.za) web and mobile app
-* [Milk by Mo](https://milkbymo.co.za) website
 * [Official JS](https://officialjs.co.za) web and mobile app
-* TCP & UDP networking utility CLI tool
 
 ### Currently in my scope of upskilling
 
