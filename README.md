@@ -24,7 +24,7 @@
 
 An ambitious Fullstack Software Engineer with a passion for creating logical and innovative solutions to complex problems.
 
-I'm currently working in the `IoT` space as a Team Lead and Fullstack Junior Software Engineer at a [company](https://www.iotnxt.com/) producing a highly available, scalable and expandable virtual gateway capable of connecting and maintaining thousands of edge devices through the cloud where finally, that information is readily available on an interactive dashboard platform.
+I'm currently working in the `IoT` space as a Team Lead and Fullstack Intermediate Software Engineer at a [company](https://www.iotnxt.com/) producing a highly available, scalable and expandable virtual gateway capable of connecting and maintaining thousands of edge devices through the cloud where finally, that information is readily available on an interactive dashboard platform.
 
 My previous experiences also include working in the `FinTech` space for a [company](https://corporate.sybrin.com/) where I produced end-to-end digital banking and account management systems, with a focus on going paperless for banks and branches.
 
