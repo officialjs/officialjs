@@ -28,7 +28,7 @@ I'm currently working in the `IoT` space as a Team Lead and Fullstack Intermedia
 
 My previous experiences also include working in the `FinTech` space for a [company](https://corporate.sybrin.com/) where I produced end-to-end digital banking and account management systems, with a focus on going paperless for banks and branches.
 
-> *This **GitHub** profile is dedicated to my work outside of the previously mentioned professional career.*
+> *This **GitHub** profile is dedicated to my work outside of the previously mentioned professional career, but all my repositories are private.*
 
 ### Stats
 
