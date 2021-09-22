@@ -147,10 +147,13 @@ My previous experiences also include working in the `FinTech` space for a [compa
 
 * Cum Laude Bachelor's Degree in Computing, Bcomp NQF8, Major in Software Engineering at the [Belgium Campus](https://www.belgiumcampus.ac.za/)
 
+### Achievements
+
+* A post graduate member of the collegiate Golden Key Society [Golden Key Society](https://goldenkey.org/)
+
 ### Let's Connect 🤜🤛
 
 * [![](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/jacques-stander/)&nbsp;
-
 * [![](https://img.shields.io/badge/-Portifolio-05122A?style=flat&logo=askubuntu)](https://officialjs.co.za/)&nbsp;
 * [![](https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube)](https://www.youtube.com/channel/UCRhoNaX_mlkiIHhOPYjskHA)&nbsp;
 * [![](https://img.shields.io/badge/-Udemy-05122A?style=flat&logo=udemy)](https://www.udemy.com/user/jacques-stander-3/)&nbsp;
