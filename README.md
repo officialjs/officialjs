@@ -149,7 +149,7 @@ My previous experiences also include working in the `FinTech` space for a [compa
 
 ### Achievements
 
-* A post graduate member of the collegiate Golden Key Society [Golden Key Society](https://goldenkey.org/)
+* A post graduate member of the collegiate [Golden Key Society](https://goldenkey.org/)
 
 ### Let's Connect 🤜🤛
 
