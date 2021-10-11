@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning [**react.js**](https://reactjs.org/)
 
-👯 I’m looking to collaborate on a .NET project
+👯 I’m looking to collaborate on a .NET or nodejs project
 
 🤔 I’m looking for help with setting up a [**mail server**](https://hub.docker.com/r/mailserver/docker-mailserver/)
 
@@ -36,7 +36,8 @@ My previous experiences also include working in the `FinTech` space for a [compa
 
 ### Currently working on
 
-* [Official JS](https://officialjs.co.za) web and mobile app
+* [officialjs.co.za](https://officialjs.co.za) personal portifolio web
+* [Harlin.io](https://harlin.io) web and mobile platform
 
 ### Currently in my scope of upskilling
 
