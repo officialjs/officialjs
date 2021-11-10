@@ -6,9 +6,9 @@
 
 ### TL;DR
 
-🔭 I’m currently working on 1 website.
+🔭 I’m currently working on [harlin.io](https://harlin.io) and [officialjs](https://officialjs.co.za).
 
-🌱 I’m currently learning [**react.js**](https://reactjs.org/)
+🌱 I’m currently learning [**identityserver4**](https://identityserver4.readthedocs.io/en/latest/)
 
 👯 I’m looking to collaborate on a .NET or nodejs project
 
