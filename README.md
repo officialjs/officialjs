@@ -79,7 +79,6 @@ My previous experiences also include working in the `FinTech` space for a [compa
 ![](https://img.shields.io/badge/-Adobe_Premiere_Pro-05122A?style=flat&logo=adobepremierepro)&nbsp;
 ![](https://img.shields.io/badge/-Adobe_Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 ![](https://img.shields.io/badge/-Adobe_After_Effects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
-![](https://img.shields.io/badge/-Adobe_Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 ![](https://img.shields.io/badge/-OpenSSL-05122A?style=flat&logo=openssl)&nbsp;
 ![](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=adobexd)&nbsp;
 ![](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
