@@ -6,13 +6,11 @@
 
 ### TL;DR
 
-🔭 I’m currently working on [harlin.io](https://harlin.io) and [officialjs](https://officialjs.co.za).
+🔭 I’m currently working on [my-farm-living](https://my-farm-living.co.za) and [officialjs](https://officialjs.com).
 
 🌱 I’m currently learning [**identityserver4**](https://identityserver4.readthedocs.io/en/latest/)
 
 👯 I’m looking to collaborate on a .NET or nodejs project
-
-🤔 I’m looking for help with setting up a [**mail server**](https://hub.docker.com/r/mailserver/docker-mailserver/)
 
 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/jacques-stander/)
 
@@ -24,7 +22,7 @@
 
 An ambitious Fullstack Software Engineer with a passion for creating logical and innovative solutions to complex problems.
 
-I'm currently working in the `IoT` space as a Team Lead and Fullstack Intermediate Software Engineer at a [company](https://www.iotnxt.com/) producing a highly available, scalable and expandable virtual gateway capable of connecting and maintaining thousands of edge devices through the cloud where finally, that information is readily available on an interactive dashboard platform.
+I'm currently working in the `IoT` space as a Fullstack Intermediate Software Engineer at a [company](https://www.iotnxt.com/) producing a highly available, scalable and expandable virtual gateway capable of connecting and maintaining thousands of edge devices through the cloud where finally, that information is readily available on an interactive dashboard platform.
 
 My previous experiences also include working in the `FinTech` space for a [company](https://corporate.sybrin.com/) where I produced end-to-end digital banking and account management systems, with a focus on going paperless for banks and branches.
 
@@ -36,12 +34,14 @@ My previous experiences also include working in the `FinTech` space for a [compa
 
 ### Currently working on
 
-* [officialjs.co.za](https://officialjs.co.za) personal portifolio web
-* [Harlin.io](https://harlin.io) web and mobile platform
+* [officialjs.com](https://officialjs.com) personal portifolio web
+* [my-farm-living.co.za](https://my-farm-living.co.za) web and mobile platform
 
 ### Currently in my scope of upskilling
 
 * [React.js](https://reactjs.org/)
+* [IdentityServer4](http://docs.identityserver.io/)
+* [TailwindCSS](https://tailwindcss.com/)
 
 ### In my arsenal
 
