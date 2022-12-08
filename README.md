@@ -164,3 +164,4 @@ My previous experiences also include working in the `FinTech` space for a [compa
 * [Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * [Mongolian Horde Theory](https://www.answers.com/Q/What_is_the_Mongolian_horde_theory)
 * [Data structure & Algorithms](https://www.programiz.com/dsa)
+* [Peter Principle](https://en.wikipedia.org/wiki/Peter_principle)
