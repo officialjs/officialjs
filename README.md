@@ -4,20 +4,6 @@
 
 ![night-coding](./night-coding.gif)
 
-### TL;DR
-
-🔭 I’m currently working on [my-farm-living](https://my-farm-living.co.za) and [officialjs](https://officialjs.com).
-
-🌱 I’m currently learning [**identityserver4**](https://identityserver4.readthedocs.io/en/latest/)
-
-👯 I’m looking to collaborate on a .NET or nodejs project
-
-📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/jacques-stander/)
-
-⚡ Fun fact: *fantasy > reality*
-
-™  I'm known as **[officialjs](https://github.com/officialjs)**
-
 ### Professional Career
 
 An ambitious Fullstack Software Engineer with a passion for creating logical and innovative solutions to complex problems.
